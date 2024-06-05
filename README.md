@@ -14,7 +14,7 @@ Example
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/yourusername/simple-calculator.git
+git clone https://github.com/danithu123/Python-Calculater.git
 
 # Navigate to the directory
 cd simple-calculator
